@@ -66,6 +66,7 @@ const addMovieHandler = () => {
   console.log(movies);
   clearUserInputs();
   toggleMovieModal();
+  renderNewMovieElement(movie.title, movie.imageUrl, movie.rating);
   updateUI();
 };
 const cancelAddMovie = () => {
