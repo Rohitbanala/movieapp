@@ -1,1 +1,9 @@
-It is simple Movie App where we can add and delete our favorite movies list. Features are Adding a movie, deleting a movie. Implemented modal sheets dynamically and it includes features like adding a movie, deleting a movie and added a warning feature before deleting the movie.
+# Movie App
+
+A simple Movie App that allows users to manage their favorite movies list. This app provides the functionality to add movies, delete them, and includes a warning confirmation before deleting a movie.
+
+## Features
+
+- **Add a Movie**: Dynamically add your favorite movies to the list.
+- **Delete a Movie**: Remove movies from the list with a confirmation warning.
+- **Warning Before Deletion**: Prevent accidental deletion by displaying a warning dialog.
